@@ -1,0 +1,9 @@
+flask
+Flask-Migrate
+Flask-Script
+flask_sqlalchemy
+app.db_configurations.db_connection
+urllib.request
+bs4
+requests
+atexit
